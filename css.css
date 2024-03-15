@@ -18,3 +18,12 @@
   width: 100%;
   box-sizing: border-box;
 }
+
+#toggleContainer {
+  height: 10vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 95vw;
+  position: absolute;
+}
