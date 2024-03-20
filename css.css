@@ -64,3 +64,11 @@
   box-sizing: border-box;
   position: relative;
 }
+
+#toggle {
+  height: 10vh;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
