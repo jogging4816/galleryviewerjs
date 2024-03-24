@@ -101,3 +101,11 @@
   border: 2px solid white;
   transition: all 0.5s;
 }
+
+#slider3 {
+  height: 36px;
+  width: 46px;
+  background-color: orange;
+  border-radius: 3px;  
+  transition: all 0.5s;
+}
