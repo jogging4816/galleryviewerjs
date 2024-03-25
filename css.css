@@ -109,3 +109,12 @@
   border-radius: 3px;  
   transition: all 0.5s;
 }
+
+  #slider3.active {
+  -webkit-transform: translatex(50px);
+  -ms-transform: translatex(50px);
+  -o-transform: translatex(50px);
+  transform: translatex(50px);
+  transition: all 0.5s;
+  background-color: orange;
+}
